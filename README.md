@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand2025&label=Profile%20views&color=0e75b6&style=flat" alt="anand2025" /> </p>
 
-- 🌱 I’m currently learning **MERN stack and DSA**
+- 🌱 I’m currently learning **Web Development and DSA**
 
 - 📫 How to reach me **shrutianand200402@gmail.com**
  
