@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shruti Anand</h1>
-<h3 align="center">An aspiring software development Engineer from India</h3>
+<h3 align="center">A software development Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand2025&label=Profile%20views&color=0e75b6&style=flat" alt="anand2025" /> </p>
 
-- 🌱 I’m currently learning **Web Development and DSA**
+- 🌱 I’m currently building clean, scalable web applications and learning new things everyday.
 
 - 📫 How to reach me **shrutianand200402@gmail.com**
  
